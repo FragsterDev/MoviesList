@@ -1,9 +1,9 @@
 // src/features/movies/pages/HomePage.tsx
-
+import NavBar from "../../../common/components/NavBar";
 const HomePage = () => {
   return (
     <div>
-      <h1>HomePage</h1>
+      <NavBar />
     </div>
   );
 };
